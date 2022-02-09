@@ -1,0 +1,43 @@
+*.py[cod]
+
+.python-version
+
+# Data
+tmp
+# data
+*.DS_Store
+
+# C extensions
+*.so
+
+# Packages
+*.zip
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+__pycache__
+.cache
+.ipynb_checkpoints
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Virtual environments
+/venv
+
+# Spark
+metastore_db
+derby.log
